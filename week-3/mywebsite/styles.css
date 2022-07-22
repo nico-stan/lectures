@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+}
+
+p {
+  color: navy;
+}
+
+.something {
+  color: red;
+  font-weight: 500;
+}
