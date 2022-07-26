@@ -2,7 +2,9 @@
 **/*.ipynb_checkpoints/
 **/__pycache__
 .vscode
-*mt.ipynb
 week-2/other/*
 .env
 **/.env
+*mt.ipynb
+*ny.ipynb
+week-4/jsons/
