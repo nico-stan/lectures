@@ -247,4 +247,4 @@ These (`$and, $or`) have a slightly different syntax and require an array of con
 
 Checkout this great mongo query cheatsheet
 
-- [Cheatsheet](mongo_operators_cheatsheet.png)
+![Cheatsheet](mongo_operators_cheatsheet.png)
